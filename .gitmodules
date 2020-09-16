@@ -1,0 +1,10 @@
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/hugo-journal"]
+	path = themes/hugo-journal
+	url = https://github.com/dashdashzako/hugo-journal
+[submodule "public"]
+	path = public
+	url = https://github.com/cloudy9101/cloudy9101.github.io.git
+	branch = pages

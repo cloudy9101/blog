@@ -1,0 +1,18 @@
+baseurl = "https://cloudy9101.github.io"
+title = "LIFE JOURNAL"
+theme = "hugo-journal"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[author]
+  name="cloudy9101"
+
+[params]
+  description = "Life journal"
+  githubUsername = "cloudy9101"
+  twitterUsername = "cloudy9101"
+  tagline = "No, I'm gonna live."
+[params.work]
+  jobTitle = "programmer"
+  company = "home"
+  companyUrl = "https://cloudy9101.com"
