@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on LIFE JOURNAL</title>
+    <link>https://cloudy9101.github.io/posts/</link>
+    <description>Recent content in Posts on LIFE JOURNAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Sep 2020 23:53:48 +0800</lastBuildDate><atom:link href="https://cloudy9101.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新的开始</title>
+      <link>https://cloudy9101.github.io/posts/new-start/</link>
+      <pubDate>Tue, 15 Sep 2020 23:53:48 +0800</pubDate>
+      
+      <guid>https://cloudy9101.github.io/posts/new-start/</guid>
+      <description>工作了几年发现自己这也不会，那也不会，好像什么都懂一点，又好像什么都不懂。
+最近又准备开始在家远程办公了，希望从现在开始，能和以前有点不同，就从写博客开始吧。
+希望写博客能强迫自己思考和总结，能在几年之后不再像现在这样浑浑噩噩。
+2020.09.15 晚</description>
+    </item>
+    
+  </channel>
+</rss>
